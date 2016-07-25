@@ -1,4 +1,4 @@
-# The PokemonGO Open Data Innitiative
+# The PokemonGO Open Data Initiative
 
 ## What Is PKMNGO-ODI?
 
